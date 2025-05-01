@@ -1,1 +1,1 @@
-# https://buy-metabofix.vercel.app
+# https://buy-metabofix.vercel.app/
