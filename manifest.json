@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"MetaboFix™ (Official Website) Get $360 OFF + 03 Free Bonuses",
+  "short_name":"MetaboFix™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"MetaboFix is a powdered nutritional supplement that claims to help you lose 35lbs of weight with zero exercises required.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
